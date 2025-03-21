@@ -209,6 +209,34 @@
         <mxCell id="cQbTPj3t7waARiSMzTZp-19" value="房源已售空" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="cQbTPj3t7waARiSMzTZp-20" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cQbTPj3t7waARiSMzTZp-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="458" y="649.7157287525383" as="sourcePoint" />
+            <mxPoint x="430" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQbTPj3t7waARiSMzTZp-21" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cQbTPj3t7waARiSMzTZp-20">
+          <mxGeometry x="-0.08" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQbTPj3t7waARiSMzTZp-22" value="跳转到租赁支付页面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQbTPj3t7waARiSMzTZp-24" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cQbTPj3t7waARiSMzTZp-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="879.7157287525383" as="sourcePoint" />
+            <mxPoint x="430" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQbTPj3t7waARiSMzTZp-25" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cQbTPj3t7waARiSMzTZp-24">
+          <mxGeometry x="-0.08" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQbTPj3t7waARiSMzTZp-26" value="租赁成功" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
